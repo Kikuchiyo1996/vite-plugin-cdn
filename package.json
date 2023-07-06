@@ -1,11 +1,11 @@
 {
-  "name": "vite-plugin-import-cdn",
-  "version": "2.0.0",
+  "name": "vite-plugin-cdn-require",
+  "version": "3.0.0",
   "description": "Import packages from CDN for the vite plugin(add jsOptions)",
-  "main": "dist/index.cjs.js",
-  "module": "dist/index.esm.js",
+  "module": "dist/index.esm.mjs",
   "type": "commonjs",
   "types": "dist/types/index.d.ts",
+  "main": "dist/index.cjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/Kikuchiyo1996/vite-plugin-cdn.git"

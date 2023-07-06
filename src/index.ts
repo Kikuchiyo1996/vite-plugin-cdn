@@ -179,6 +179,6 @@ function PluginImportToCDN(options: Options): Plugin[] {
     return plugins
 }
 
-export { PluginImportToCDN as Plugin, Options, autoComplete }
+// export { PluginImportToCDN as Plugin, Options, autoComplete }
 
 export default PluginImportToCDN

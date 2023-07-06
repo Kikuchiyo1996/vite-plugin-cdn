@@ -11,7 +11,7 @@ export default [
 			{
 				dir: `dist/`,
 				format: 'cjs',
-				entryFileNames: '[name].cjs.js',
+				entryFileNames: '[name].cjs',
 			},
 			{
 				dir: `dist/`,
@@ -23,7 +23,7 @@ export default [
 			{
 				dir: `dist/`,
 				format: 'es',
-				entryFileNames: '[name].esm.js',
+				entryFileNames: '[name].esm.mjs',
 			},
 		],
 	},
